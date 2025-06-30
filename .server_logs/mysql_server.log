@@ -52,3 +52,43 @@ Testing mysql connection...
 ✓ mysql connection successful
 - sqlite: not configured
 - mongodb: not configured
+- postgres: not configured
+Testing mysql connection...
+✓ mysql connection successful
+- sqlite: not configured
+- mongodb: not configured
+- postgres: not configured
+Testing mysql connection...
+✓ mysql connection successful
+- sqlite: not configured
+- mongodb: not configured
+- postgres: not configured
+Testing mysql connection...
+✓ mysql connection successful
+- sqlite: not configured
+- mongodb: not configured
+- postgres: not configured
+Testing mysql connection...
+✓ mysql connection successful
+- sqlite: not configured
+- mongodb: not configured
+- postgres: not configured
+Testing mysql connection...
+✓ mysql connection successful
+- sqlite: not configured
+- mongodb: not configured
+- postgres: not configured
+Testing mysql connection...
+✓ mysql connection successful
+- sqlite: not configured
+- mongodb: not configured
+- postgres: not configured
+Testing mysql connection...
+✓ mysql connection successful
+- sqlite: not configured
+- mongodb: not configured
+- postgres: not configured
+Testing mysql connection...
+✓ mysql connection successful
+- sqlite: not configured
+- mongodb: not configured
